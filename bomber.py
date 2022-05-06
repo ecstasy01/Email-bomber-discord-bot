@@ -51,7 +51,7 @@ async def allah(email, subject, message, amount):
     if send_amount != 0:
         return(
             f'Success fully sent emails to: {email}',
-            f'{send_amount} Sent successfully\n{send_amount-amount} Failed to send'
+            f'{send_amount} Sent successfully\n{amount-send_amount} Failed to send'
         )
 
     else:
