@@ -1,5 +1,6 @@
 # Email-bomber-discord-bot
 A simple discord bot based email bomber
+
 Update: I dont think servers work anymore so you will need to update them yourself
 
 # How to use
